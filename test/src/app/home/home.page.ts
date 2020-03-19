@@ -7,12 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  text = 'wht your name?';
-
-onChangeText(){
-
-  this.text = 'Ang Qi Xuan';
-}
   constructor() {}
 
 }
